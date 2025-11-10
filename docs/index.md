@@ -1,4 +1,4 @@
-# Glosario exegético de retos ambientales contemporáneos
+# Inicio
 
 Pensar en los primeros conceptos.
 
