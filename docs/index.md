@@ -17,12 +17,12 @@ La carpeta del mismo nombre albergará archivos que expliquen el metafuncionamie
 
 Escribo mi glosario exegético como un [[Jardín digital|Jardín digital]]. Esto, dentro de la materia de retos ambientales, viene perfecto como sazonador de la misma metáfora. Aquí se echan semillas que pueden germinar o no, habrá que cuidarlas, regarlas y ver qué fruto dan. La clave no residirá tanto en la información sino en el vínculo que generan con otra nota, otra semilla, otro concepto desde el que empezar un diálogo orgánico entre ideas, textos y las personas que los piensan.
 
-En el manto se escribe con la sintaxis de ```[[ ]]``` lo que quiere decir que has identificado una palabra o concepto sobre el que te gustaría reflexionar. En muchos casos ya han sido trabajados y por ello serán vínculos (habrán florecido ante el teclado) pero en otros casos podrás ver palabras entre corchetes que de momento están en la fase de semilla, esperando pacientemente a que pueda cuidarlas.
+En el manto se escribe con la sintaxis de [[ corchetes ]] lo que quiere decir que has identificado una palabra o concepto sobre el que te gustaría reflexionar. En muchos casos ya han sido trabajados y por ello serán vínculos (habrán florecido ante el teclado) pero en otros casos podrás ver palabras entre corchetes que de momento están en la fase de semilla, esperando pacientemente a que pueda cuidarlas.
 
 
 ## Corteza
 
-Esto lo estás leyendo desde la posibilidad que ofrece [Github](github.com) usando el algoritmo de [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) a través del [hack creado por jobindjohn](https://github.com/jobindjohn/obsidian-publish-mkdocs)  para que se pueda mostrar tal cual lo están viendo.
+Esto lo estás leyendo desde la posibilidad que ofrece [Github](https://github.com) usando el algoritmo de [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) a través del [hack creado por jobindjohn](https://github.com/jobindjohn/obsidian-publish-mkdocs)  para que se pueda mostrar tal cual lo están viendo.
 Todo el código y contenido de este glosario está accesible en mi repositorio abierto en Github: [Glosario exegético de retos ambientales](https://github.com/danicotillas/glosario-exegetico-retos-ambientales).
 ¿Qué quiere decir esto? Cualquiera puede entrar, descargarlo, modificarlo, republicarlo, mejorarlo, continuarlo...
 En esta capa se busca un [[parentesco]] digital (dicho como *boutade*) con aquellos seres que como yo creen en que compartir conocimiento lo enriquece. Las definiciones que yo haga podrán ser siempre ampliadas y enriquecidas por la suma de miradas.
