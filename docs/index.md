@@ -12,6 +12,11 @@ Para poder seleccionar una lista de 10 términos (como está solicitado aunque p
 
 Este glosario pretende ser el inicio de un rizoma personal de pensamiento a propósito de los conceptos y retos ambientales a tratar. Al ser creado como Jardín digital (ver [[#Manto interior|Manto interior]]) quiere decir que esto que estás leyendo no es necesariamente lo primero que se escribió. Estos textos están en **constante proceso de fermentación y recreación** por parte del autor.
 
+
+!!! warning "Reflexión"
+	Como se puede apreciar este glosario es un mensaje tanto en forma como en fondo. Su propia naturaleza plantea que la enorme cantidad de palabras o ideas sin trabajar pueda ser enorme. La forma de trabajo es atómica: una nota cada vez. Pero de una nace otra, y de esa otra. Por ello atento navegante: la idea es perderse, como se pierde uno en un bosque, sin más deseo que encontrar sin buscar.
+
+
 Explicaré el proceso a través de distintos **momentos de pensamiento/acción** que a modo de capas tectónicas me sirva de explicación:
 
 ## Núcleo
@@ -33,6 +38,8 @@ Esto lo estás leyendo desde la posibilidad que ofrece [Github](https://github.c
 Todo el código y contenido de este glosario está accesible en mi repositorio abierto en Github: [Glosario exegético de retos ambientales](https://github.com/danicotillas/glosario-exegetico-retos-ambientales).
 ¿Qué quiere decir esto? Cualquiera puede entrar, descargarlo, modificarlo, republicarlo, mejorarlo, continuarlo...
 En esta capa se busca un [[Parentesco]] digital (dicho como *boutade*) con aquellos seres que como yo creen en que compartir conocimiento lo enriquece. Las definiciones que yo haga podrán ser siempre ampliadas y enriquecidas por la suma de miradas.
+
+Este estrato, justamente antes de la corteza, sirve para dejar pistas y enlaces diversos a medios, noticias y enlaces que puedan ir sirviendo como abono de los conceptos.
 
 ## Corteza
 

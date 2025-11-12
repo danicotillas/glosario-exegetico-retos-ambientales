@@ -3,7 +3,7 @@ aliases:
   - Latour
 ---
 
-Latour es probablemente uno de los pensadores más influyentes en lo que a [[cambio climático]] se refiere.
+Latour es probablemente uno de los pensadores más influyentes en lo que a [[Cambio climático]] se refiere.
 
 Su trabajo se articula en torno a una gran variedad de conceptos e interpretaciones, potenciados además desde el trabajo colaborativo.
 

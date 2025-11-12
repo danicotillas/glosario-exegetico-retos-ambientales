@@ -5,3 +5,8 @@ Como primer dato interesante de este concepto es pertinente recordar su origen c
 
 El hecho de que hoy hablemos de **cambio climático** es una auténtica obra de ingeniería política a las manos de un senador conservador estadounidense para poder ser un vehículo de duda metódica autoreferente.
 
+Interesante el contraste con el concepto de [[crisis climática]] que usan en el medio [[Climática]].
+
+**¿Por qué hablar de cambio cuando realmente estamos ya en una crisis?**
+Si Franz Luntz planteó una resignificación política de la *realidad* ambiental desde los medios se presenta una necesaria disputa a esa narrativa.
+
