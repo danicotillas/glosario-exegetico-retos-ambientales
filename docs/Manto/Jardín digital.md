@@ -1,7 +1,6 @@
 ---
 aliases:
   - jardín digital
-  - "#jardindigital"
 ---
 Un jardín digital es un espacio de trabajo como puede ser una página web en su vertiente más bloguera donde se publica el propio proceso del pensamiento y producción de algo en lo que se esté trabajando.
 
