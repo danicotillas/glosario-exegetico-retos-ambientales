@@ -22,7 +22,7 @@ La carpeta del mismo nombre albergará archivos que expliquen el metafuncionamie
 
 Escribo mi glosario exegético como un [[Jardín digital|Jardín digital]]. Esto, dentro de la materia de retos ambientales, viene perfecto como sazonador de la misma metáfora. Aquí se echan semillas que pueden germinar o no, habrá que cuidarlas, regarlas y ver qué fruto dan. La clave no residirá tanto en la información sino en el vínculo que generan con otra nota, otra semilla, otro concepto desde el que empezar un diálogo orgánico entre ideas, textos y las personas que los piensan.
 
-En el manto se escribe con la sintaxis de [[ corchetes ]] lo que quiere decir que has identificado una palabra o concepto sobre el que te gustaría reflexionar. En muchos casos ya han sido trabajados y por ello serán vínculos (habrán florecido ante el teclado) pero en otros casos podrás ver palabras entre corchetes que de momento están en la fase de semilla, esperando pacientemente a que pueda cuidarlas.
+En el manto se escribe con la sintaxis de [[corchetes]]  lo que quiere decir que has identificado una palabra o concepto sobre el que te gustaría reflexionar. En muchos casos ya han sido trabajados y por ello serán vínculos (habrán florecido ante el teclado) pero en otros casos podrás ver palabras entre corchetes (como la de más arriba en este párrafo) que de momento están en la fase de semilla, esperando pacientemente a que pueda cuidarlas.
 
 
 ## Corteza
