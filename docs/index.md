@@ -34,7 +34,7 @@ En el manto se escribe con la sintaxis de [[corchetes]]  lo que quiere decir que
 
 ### Superior
 
-Esto lo estás leyendo desde la posibilidad que ofrece [Github](https://github.com) usando el algoritmo de [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) a través del [hack creado por jobindjohn](https://github.com/jobindjohn/obsidian-publish-mkdocs)  para que se pueda mostrar tal cual lo están viendo.
+Esto lo estás leyendo desde la posibilidad que ofrece <a href="https://github.com" target="_blank">Github</a> usando el algoritmo de [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) a través del [hack creado por jobindjohn](https://github.com/jobindjohn/obsidian-publish-mkdocs)  para que se pueda mostrar tal cual lo están viendo.
 Todo el código y contenido de este glosario está accesible en mi repositorio abierto en Github: [Glosario exegético de retos ambientales](https://github.com/danicotillas/glosario-exegetico-retos-ambientales).
 ¿Qué quiere decir esto? Cualquiera puede entrar, descargarlo, modificarlo, republicarlo, mejorarlo, continuarlo...
 En esta capa se busca un [[Parentesco]] digital (dicho como *boutade*) con aquellos seres que como yo creen en que compartir conocimiento lo enriquece. Las definiciones que yo haga podrán ser siempre ampliadas y enriquecidas por la suma de miradas.
