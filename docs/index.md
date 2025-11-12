@@ -35,8 +35,10 @@ En el manto se escribe con la sintaxis de [[corchetes]]  lo que quiere decir que
 ### Superior
 
 Esto lo estás leyendo desde la posibilidad que ofrece <a href="https://github.com" target="_blank">Github</a> usando el algoritmo de [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) a través del [hack creado por jobindjohn](https://github.com/jobindjohn/obsidian-publish-mkdocs)  para que se pueda mostrar tal cual lo están viendo.
-Todo el código y contenido de este glosario está accesible en mi repositorio abierto en Github: [Glosario exegético de retos ambientales](https://github.com/danicotillas/glosario-exegetico-retos-ambientales).
-¿Qué quiere decir esto? Cualquiera puede entrar, descargarlo, modificarlo, republicarlo, mejorarlo, continuarlo...
+
+Todo el código y contenido de este glosario está accesible en **mi repositorio abierto en Github**: <a href="https://github.com/danicotillas/glosario-exegetico-retos-ambientales" target="_blank"><strong>Glosario exegético de retos ambientales en Github por Daniel Cotillas Ruiz</strong></a>.
+
+**¿Qué quiere decir esto?** Cualquiera puede entrar, descargarlo, modificarlo, republicarlo, mejorarlo, continuarlo...
 En esta capa se busca un [[Parentesco]] digital (dicho como *boutade*) con aquellos seres que como yo creen en que compartir conocimiento lo enriquece. Las definiciones que yo haga podrán ser siempre ampliadas y enriquecidas por la suma de miradas.
 
 Este estrato, justamente antes de la corteza, sirve para dejar pistas y enlaces diversos a medios, noticias y enlaces que puedan ir sirviendo como abono de los conceptos.
