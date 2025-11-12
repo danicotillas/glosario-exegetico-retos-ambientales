@@ -1,5 +1,10 @@
 # Glosario exegético de retos ambientales
 
+
+!!! info "Información"
+	He creído pertinente dejar esta página como inicio para dar una introducción de *dónde se está*. Si prefieres ir directamente a una página con los conceptos listados ve a [[Glosario]]
+
+
 Para iniciar mi glosario debería tal vez explica por qué hacerlo aquí y qué es exactamente lo que se plantea.
 
 Para poder seleccionar una lista de 10 términos (como está solicitado aunque puede que me salgan más) la única forma que me aparece en la cabeza es la de una malla de relaciones, una topología de red distribuida, donde **estos conceptos dialogan entre sí, entre las problemáticas contemporáneas y sus creadoras/es.**
