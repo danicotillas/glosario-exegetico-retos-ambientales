@@ -4,10 +4,9 @@ Para iniciar mi glosario debería tal vez explica por qué hacerlo aquí y qué 
 
 Para poder seleccionar una lista de 10 términos (como está solicitado aunque puede que me salgan más) la única forma que me aparece en la cabeza es la de una malla de relaciones, una topología de red distribuida, donde **estos conceptos dialogan entre sí, entre las problemáticas contemporáneas y sus creadoras/es.**
 
-Este glosario pretende ser el inicio de un rizoma personal de pensamiento a propósito de los conceptos y retos ambientales a tratar. Al ser creado como Jardín digital (ver [[index#Manto interior|Manto interior]])
+Este glosario pretende ser el inicio de un rizoma personal de pensamiento a propósito de los conceptos y retos ambientales a tratar. Al ser creado como Jardín digital (ver [[#Manto interior|Manto interior]]) quiere decir que esto que estás leyendo no es necesariamente lo primero que se escribió. Estos textos están en **constante proceso de fermentación y recreación** por parte del autor.
 
-
-Necesito explicarlo desde distintas capas de pensamiento/acción que a modo de capas tectónicas me sirva de explicación:
+Explicaré el proceso a través de distintos **momentos de pensamiento/acción** que a modo de capas tectónicas me sirva de explicación:
 
 ## Núcleo interno
 
@@ -16,8 +15,9 @@ La carpeta del mismo nombre albergará archivos que expliquen el metafuncionamie
 
 ## Manto interior
 
-Escribo mi glosario exegético como un [[Jardín digital|Jardín digital]]. Esto, dentro de la materia de retos ambientales, viene perfecto como sazonador de la misma metáfora.
+Escribo mi glosario exegético como un [[Jardín digital|Jardín digital]]. Esto, dentro de la materia de retos ambientales, viene perfecto como sazonador de la misma metáfora. Aquí se echan semillas que pueden germinar o no, habrá que cuidarlas, regarlas y ver qué fruto dan. La clave no residirá tanto en la información sino en el vínculo que generan con otra nota, otra semilla, otro concepto desde el que empezar un diálogo orgánico entre ideas, textos y las personas que los piensan.
 
+En el manto se escribe con la sintaxis de ```[[ ]]``` lo que quiere decir que has identificado una palabra o concepto sobre el que te gustaría reflexionar. En muchos casos ya han sido trabajados y por ello serán vínculos (habrán florecido ante el teclado) pero en otros casos podrás ver palabras entre corchetes que de momento están en la fase de semilla, esperando pacientemente a que pueda cuidarlas.
 
 
 ## Corteza
