@@ -2,7 +2,8 @@
 
 
 !!! info "Información"
-	He creído pertinente dejar esta página como inicio para dar una introducción de *dónde se está*. Si prefieres ir directamente a una página con los conceptos listados ve a [[Glosario]]
+	He creído pertinente dejar esta página como inicio para dar una introducción de *dónde se está*.
+	Si prefieres ir directamente a una página con los conceptos listados ve a **[[Glosario de conceptos]]**
 
 
 Para iniciar mi glosario debería tal vez explica por qué hacerlo aquí y qué es exactamente lo que se plantea.
@@ -16,7 +17,7 @@ Explicaré el proceso a través de distintos **momentos de pensamiento/acción**
 ## Núcleo interno
 
 Esto lo escribo desde el software Obsidian que funciona bajo una lógica de [[File over app]]. Esto implica una mirada en la reducción de la huella de carbono utilizando los recursos de mi computador por encima de los de un servidor en la nube que suponga un mayor gasto energético.
-La carpeta del mismo nombre albergará archivos que expliquen el metafuncionamiento de esta forma de hacer el glosario.
+La carpeta del mismo nombre albergará archivos que expliquen el **metafuncionamiento de esta forma de hacer el glosario.**
 
 ## Manto interior
 
@@ -24,6 +25,11 @@ Escribo mi glosario exegético como un [[Jardín digital|Jardín digital]]. Esto
 
 En el manto se escribe con la sintaxis de [[corchetes]]  lo que quiere decir que has identificado una palabra o concepto sobre el que te gustaría reflexionar. En muchos casos ya han sido trabajados y por ello serán vínculos (habrán florecido ante el teclado) pero en otros casos podrás ver palabras entre corchetes (como la de más arriba en este párrafo) que de momento están en la fase de semilla, esperando pacientemente a que pueda cuidarlas.
 
+## Manto superior
+
+Son los conceptos, autoras y autores, ideas, reflexiones, palabras clave **hechas información**. Esta facticidad se representa a modo de nota a la que accedemos por el vínculo. Cada vez que hacemos un clic y navegamos entre notas estamos pasando de la corteza al manto superior atravesando el código de una plataforma digital para investigar qué se encuentra más allá.
+
+Se apoya sobre el calor que impregna la capa inmediatamente anterior de manto donde como Jardín digital que es no hay un orden necesariamente establecido. **No hay navegación, no hay orden, sólo crecimiento orgánico**.
 
 ## Corteza
 
@@ -34,8 +40,11 @@ En esta capa se busca un [[parentesco]] digital (dicho como *boutade*) con aquel
 
 
 
+%% DATAVIEW_PUBLISHER: start
+```dataview
+LIST
+FROM #jardindigital
+```
 
-
-Autores/as:
-
-[[Bruno Latour]]
+%%
+%% DATAVIEW_PUBLISHER: end %%
