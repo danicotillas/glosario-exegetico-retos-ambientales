@@ -1,5 +1,5 @@
 
-Como primer dato interesante de este concepto es pertinente recordar su origen como nos lo cuenta [[Bruno Latour|Latour]] en [[Cara a cara con el planeta]]:
+Como primer dato interesante de este concepto es pertinente recordar su origen como nos lo cuenta [[Bruno Latour|Latour]] en [[Bibliografía#Latour, B. (2019). _Cara a cara con el planeta Una nueva mirada sobre el cambio climático alejada de las posiciones apocalípticas_. Siglo XXI Editores.|Cara a cara con el planeta]]:
 
 > Debemos a la astucia de Franz Luntz, psicosociólogo y retórico sin par, célebre inventor de la expresión “cambio climático” en lugar de “calentamiento global”, la mejor formulación de esta profunda filosofía: *la descripción de los hechos está tan peligrosamente cerca de la prescripción de una política que, para detener el cuestionamiento del modo de vida industrial, es preciso sembrar la duda sobre los hechos*.
 
