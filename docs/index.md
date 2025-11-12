@@ -2,15 +2,21 @@
 
 Para iniciar mi glosario debería tal vez explica por qué hacerlo aquí y qué es exactamente lo que se plantea.
 
+Para poder seleccionar una lista de 10 términos (como está solicitado aunque puede que me salgan más) la única forma que me aparece en la cabeza es la de una malla de relaciones, una topología de red distribuida, donde **estos conceptos dialogan entre sí, entre las problemáticas contemporáneas y sus creadoras/es.**
+
+Este glosario pretende ser el inicio de un rizoma personal de pensamiento a propósito de los conceptos y retos ambientales a tratar. Al ser creado como Jardín digital (ver [[index#Manto interior|Manto interior]])
+
+
 Necesito explicarlo desde distintas capas de pensamiento/acción que a modo de capas tectónicas me sirva de explicación:
 
 ## Núcleo interno
 
 Esto lo escribo desde el software Obsidian que funciona bajo una lógica de [[File over app]]. Esto implica una mirada en la reducción de la huella de carbono utilizando los recursos de mi computador por encima de los de un servidor en la nube que suponga un mayor gasto energético.
+La carpeta del mismo nombre albergará archivos que expliquen el metafuncionamiento de esta forma de hacer el glosario.
 
 ## Manto interior
 
-Escribo mi glosario exegético como un [[jardín digital]]. Esto, dentro de la materia de retos ambientales, viene perfecto como sazonador de la misma metáfora.
+Escribo mi glosario exegético como un [[Jardín digital|Jardín digital]]. Esto, dentro de la materia de retos ambientales, viene perfecto como sazonador de la misma metáfora.
 
 
 
