@@ -1,4 +1,4 @@
-# Glosario exegético de retos ambientales
+# A propósito de este Glosario
 
 
 !!! info "Información"
