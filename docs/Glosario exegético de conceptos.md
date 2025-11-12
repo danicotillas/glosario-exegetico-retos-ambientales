@@ -4,6 +4,8 @@ La [RAE](https://dle.rae.es/?w=ex%C3%A9gesis) nos dice que es una "Explicación,
 
 > La palabra _exégesis_ significa "extraer el significado de un texto dado"
 
+^3e196b
+
 Por esta razón, que entiendo que es la motivación del ejercicio voy a empezar haciendo una lista *significada* en un sentido de *darle sentido desde mi parecer* de aquellos conceptos encontrados a través de los textos y videos propuestos así como de otras lecturas que han ido "cayendo" en mis manos.
 
 El primero concepto que me viene a la cabeza es el de [[Rewilding]] traído por [[Cristian Moyano]] en un [artículo publicado en Climática de La Marea](https://climatica.coop/entrevista-cristian-moyano-filosofo-rewilding/?tztc=1).
