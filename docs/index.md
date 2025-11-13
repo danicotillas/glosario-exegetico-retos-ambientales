@@ -56,7 +56,7 @@ Se apoya sobre el calor que impregna la capa inmediatamente anterior de manto do
 #### Nacimiento
 
 
-![[genesis-glosario.gif]]
+![[genesis-glosario_.gif]]
 
 ***
 
