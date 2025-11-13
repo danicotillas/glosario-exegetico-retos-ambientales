@@ -17,6 +17,11 @@ Este glosario pretende ser el inicio de un rizoma personal de pensamiento a prop
 
 <iframe src="Núcleo/genesis-glosario.mp4" style="width:100%;"></iframe>
 
+
+<video controls>
+<source src="Núcleo/genesis-glosario.mp4" type="video/mp4" style="width:100%">
+</video>
+
 ***
 
 
