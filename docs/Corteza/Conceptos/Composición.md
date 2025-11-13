@@ -6,4 +6,4 @@
 
 Me ha recordado el documento de [[Manifiesto composicionista]] que sería interesante en algún momento rescatar para observar el planteamiento que hace ahí.
 
-Sí me parece clave la idea de composición como suma de puntos de vista, teorías, postulados y miradas sobre la compleja relación de conceptos como [[Naturaleza]] y [[Cultura]].
+Sí me parece clave la idea de composición como suma de puntos de vista, teorías, postulados y miradas sobre la compleja relación de conceptos como [[Naturaleza+Cultura|Naturaleza]] y [[Naturaleza+Cultura|Cultura]].

@@ -2,7 +2,7 @@
 !!! info "Página web"
 	Conoce el medio en [https://climatica.coop]()
 
-Medio de información sobre [[crisis climática]] y [[biodiversidad]] de la cooperativa Más Público.
+Medio de información sobre [[Crisis climática]] y [[Biodiversidad]] de la cooperativa Más Público.
 
 
 A continuación información del medio sacado de su web:
