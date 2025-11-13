@@ -4,4 +4,4 @@ Se basa en la idea sencilla pero poderosa de dejar a la naturaleza ser ella mism
 
 Un concepto que plantea por lado la necesidad de acción como inacción por parte del ser humano. Permitir a la naturaleza reasalvajarse, volver a ser más ella misma, desde la toma de conciencia del ser humano en la necesidad de no intervenir en sus procesos.
 
-Si bien el concepto de [[Gaia]] nos plantea un accionar por parte de la [[Naturaleza-Cultura|Naturaleza]] donde el ser humano no tiene capacidad de agencia o de distorsión de su accionar, en el caso del rewilding percibo la necesaria toma de conciencia por el *laissez-faire* humano.
+Si bien el concepto de [[Gaia]] nos plantea un accionar por parte de la [[Naturaleza+Cultura|Naturaleza]] donde el ser humano no tiene capacidad de agencia o de distorsión de su accionar, en el caso del rewilding percibo la necesaria toma de conciencia por el *laissez-faire* humano.

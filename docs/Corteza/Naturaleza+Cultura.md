@@ -1,3 +1,9 @@
+
+!!! Nota "Aclaración"
+	Por motivos técnicos no puedo usar / para dividir "Naturaleza/Cultura" como me hubiese gustado simbolizarlo. Por ello he colocado un + como símbolo de unión entre ellos
+
+
+
 Además de las menciones de [[Bruno Latour|Latour]] a propósito de esta dualidad, de esta relación de siameses entre ambos conceptos encontramos mención a la problemática de su definición en la entrevista de [[Bibliografía#Grodira, F. (2025, octubre 30). Cristian Moyano, filósofo «El “rewilding” rompe con la soberbia humana». _Climática, el medio especializado en clima y biodiversidad_. [https //climatica.coop/entrevista-cristian-moyano-filosofo-rewilding/](https //climatica.coop/entrevista-cristian-moyano-filosofo-rewilding/)|Cristian Moyano]]:
 
 > **¿Puede incidir el _rewilding_ en la separación artificial entre humano y naturaleza, cuando somos naturaleza también?**

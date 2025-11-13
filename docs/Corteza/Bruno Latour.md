@@ -20,5 +20,5 @@ Algunos de estos conceptos que creo pertinente para rescatar para este glosario 
 - [[Gaia]]
 - [[Antropoceno]]
 - [[Adentro (Inside)]]
-- **Naturaleza** y **Cultura** aunque en realidad deberíamos hablar de [[Naturaleza-Cultura]].
+- **Naturaleza** y **Cultura** aunque en realidad deberíamos hablar de [[Naturaleza+Cultura]].
 - [[Composición]].
