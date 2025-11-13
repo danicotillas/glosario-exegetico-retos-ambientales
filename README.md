@@ -1,3 +1,14 @@
+
+Bienvenide al **Glosario exegético de retos ambientales** creado para la materia del mismo nombre del Máster de Filosofía para los Retos Contemporáneos de la UOC.
+
+Puedes ver el resultado de este **<a href="https://jardin.cc/topic/que-son-los-jardines-digitales/" target="_blank"><strong>jardín digital</strong></a> en:
+
+<a href="https://danicotillas.github.io/glosario-exegetico-retos-ambientales" target="_blank">https://danicotillas.github.io/glosario-exegetico-retos-ambientales</a>
+
+*** 
+
+Esto es un fork de https://github.com/jobindjohn/obsidian-publish-mkdocs
+
 # Publish your Obsidian Notes
 
 MkDocs template [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
