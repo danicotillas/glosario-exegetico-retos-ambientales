@@ -22,6 +22,8 @@ Este glosario pretende ser el inicio de un rizoma personal de pensamiento a prop
 <source src="Núcleo/genesis-glosario.mp4" type="video/mp4" style="width:100%">
 </video>
 
+![[genesis-glosario.gif]]
+
 ***
 
 
