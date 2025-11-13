@@ -14,7 +14,8 @@ Este glosario pretende ser el inicio de un rizoma personal de pensamiento a prop
 ***
 ### Nacimiento del glosario
 
-![[genesis-glosario.mp4]]
+
+<iframe src="Núcleo/genesis-glosario.mp4" style="width:100%;"></iframe>
 
 ***
 
