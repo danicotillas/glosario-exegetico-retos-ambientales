@@ -11,21 +11,6 @@ Para poder seleccionar una lista de 10 términos (como está solicitado aunque p
 
 Este glosario pretende ser el inicio de un rizoma personal de pensamiento a propósito de los conceptos y retos ambientales a tratar. Al ser creado como Jardín digital (ver [[#Manto|Manto]]) quiere decir que esto que estás leyendo no es necesariamente lo primero que se escribió. Estos textos están en **constante proceso de fermentación y recreación** por parte del autor.
 
-***
-### Nacimiento del glosario
-
-
-<iframe src="Núcleo/genesis-glosario.mp4" style="width:100%;"></iframe>
-
-
-<video controls>
-<source src="Núcleo/genesis-glosario.mp4" type="video/mp4" style="width:100%">
-</video>
-
-![[genesis-glosario.gif]]
-
-***
-
 
 !!! warning "Reflexión"
 	Como se puede apreciar este glosario es un mensaje tanto en forma como en fondo. Su propia naturaleza plantea que la enorme cantidad de palabras o ideas sin trabajar pueda ser enorme. La forma de trabajo es atómica: una nota cada vez. Pero de una nace otra, y de esa otra. Por ello atento navegante: la idea es perderse, como se pierde uno en un bosque, sin más deseo que encontrar sin buscar.
@@ -62,4 +47,16 @@ Este estrato, justamente antes de la corteza, sirve para dejar pistas y enlaces 
 Son los **[[Glosario exegético de conceptos|conceptos, autoras y autores, ideas, reflexiones, palabras clave hechas información]]**. Esta facticidad se representa a modo de nota a la que accedemos por el vínculo. Cada vez que hacemos un clic y navegamos entre notas estamos pasando de la corteza al manto superior atravesando el código de una plataforma digital para investigar qué se encuentra más allá.
 
 Se apoya sobre el calor que impregna la capa inmediatamente anterior de manto donde como Jardín digital que es no hay un orden necesariamente establecido. **No hay navegación, no hay orden, sólo crecimiento orgánico**.
+
+
+
+***
+### Proceso de creación del glosario
+
+#### Nacimiento
+
+
+![[genesis-glosario.gif]]
+
+***
 
