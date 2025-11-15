@@ -3,7 +3,6 @@
 	Por motivos técnicos no puedo usar / para dividir "Naturaleza/Cultura" como me hubiese gustado simbolizarlo. Por ello he colocado un + como símbolo de unión entre ellos
 
 
-
 Además de las menciones de [[Bruno Latour|Latour]] a propósito de esta dualidad, de esta relación de siameses entre ambos conceptos encontramos mención a la problemática de su definición en la entrevista de [[Bibliografía#Grodira, F. (2025, octubre 30). Cristian Moyano, filósofo «El “rewilding” rompe con la soberbia humana». _Climática, el medio especializado en clima y biodiversidad_. [https //climatica.coop/entrevista-cristian-moyano-filosofo-rewilding/](https //climatica.coop/entrevista-cristian-moyano-filosofo-rewilding/)|Cristian Moyano]]:
 
 > **¿Puede incidir el _rewilding_ en la separación artificial entre humano y naturaleza, cuando somos naturaleza también?**
@@ -12,3 +11,14 @@ Además de las menciones de [[Bruno Latour|Latour]] a propósito de esta dualida
 
 En la cita anterior, donde las negritas son mías, me interesa cómo dialoga su respuesta con el pensamiento específicamente de [[Bruno Latour|Latour]] a propósito de esa relación siamesa de Naturaleza como Cultura (probablemente Moyano haya leído a Latour) así como la idea de comunidad multiespecie que podemos encontrar en el pensamiento de [[Donna Haraway]].
 
+Por ello no me atrevería, como nos avisa Latour, a intentar siquiera plantear una definición de Naturaleza, sin incluir la Cultura, y viceversa.
+
+Esta entrada plantea esa doble trampa, el de la incapacidad de su propia definición como concepto siamés y al mismo tiempo como la imposibilidad de definirlos por separado sin que uno esté dentro del otro.
+
+Bruno Latour en el video [[Bibliografía#CCCB. (s. f.). _«Natura», Bruno Latour i Gerard Ortín Castellví. Un vocabulari per al futur—YouTube_. Recuperado 14 de noviembre de 2025, de [https //www.youtube.com/watch?v=FJPri-WiI1E](https //www.youtube.com/watch?v=FJPri-WiI1E)|Natura]] nos interpela a leer **natura** y **naturaleza** como **cultura** y **humano**. Por ejemplo una ciudad no es "natural" pero está hecha con elementos de la naturaleza: piedras, madera,...  Un bosque es "más" natural pero no nos engañemos, también los bosques han sido humanizados a través de la siembra, reforestación, etc.
+
+Cuando decimos natural o naturaleza estamos hablando de **materia**. Una que no ha sido tocada aún por la mano del hombre, o también abandonada ahora por la mano del hombre.
+
+> *Naturaleza = materialidad - intervención humana.*
+
+**¿Y lo humano? ¿No es acaso natural?** **¿La naturaleza es lo que no es humano pero lo humano es natural?** Cada una de estas preguntas nos van complejizando más el escenario de la conceptualización de las palabras.
