@@ -1,11 +1,11 @@
 # A propósito de este Glosario
 
-![[genesis-glosario_completo.gif]]
-
-
 !!! info "Información"
 	He creído pertinente dejar esta página como inicio para dar una introducción de *dónde se está*.
 	Si prefieres ir directamente a una página con los conceptos listados ve a **[[Glosario exegético de conceptos]]**
+
+
+![[genesis-glosario_completo.gif]]
 
 
 Para iniciar mi glosario debería tal vez explica por qué hacerlo aquí y qué es exactamente lo que se plantea.
