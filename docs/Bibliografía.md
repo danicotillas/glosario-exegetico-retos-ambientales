@@ -5,8 +5,12 @@
 
 ### Gutiérrez, B. (2025, noviembre 2). _Adiós a la sostenibilidad y hola a la alianza multiespecies: Nuevos vientos para el pensamiento ecologista_. El País. [https://elpais.com/ideas/2025-11-02/adios-a-la-sostenibilidad-y-hola-a-la-alianza-multiespecies-nuevos-vientos-para-el-pensamiento-ecologista.html](https://elpais.com/ideas/2025-11-02/adios-a-la-sostenibilidad-y-hola-a-la-alianza-multiespecies-nuevos-vientos-para-el-pensamiento-ecologista.html)
 
+### Haraway, D. J. (2020). _Seguir con el problema: Generar parentesco en el Chthuluceno_. CONSONNI.
+
 ### Ireland, A. (2022). _Filosofía- ficción_. Holobionte Ediciones.
 ### Latour, Bruno. (2019). _Cara a cara con el planeta: Una nueva mirada sobre el cambio climático alejada de las posiciones apocalípticas_. Siglo XXI Editores.
+
+### Latour, B. (2010). _Bruno Latour—Ensayo de un «Manifiesto composicionista» | Revista Fractal_. [https://www.mxfractal.org/articulos/RevistaFractal76BrunoLatour.php](https://www.mxfractal.org/articulos/RevistaFractal76BrunoLatour.php)
 
 ### Latour, Bruno. Inside [vídeo en línea]. 2018. Disponible en:https://www.youtube.com/watch?v=gzPROcd1MuE&themeRefresh=1
 

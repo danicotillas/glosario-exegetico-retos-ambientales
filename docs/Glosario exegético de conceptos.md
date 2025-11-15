@@ -8,9 +8,14 @@ La [RAE](https://dle.rae.es/?w=ex%C3%A9gesis) nos dice que es una "Explicación,
 
 Por esta razón, que entiendo que es la motivación del ejercicio voy a empezar haciendo una lista *significada* en un sentido de *darle sentido desde mi parecer* de aquellos conceptos encontrados a través de los textos y videos propuestos así como de otras lecturas que han ido "cayendo" en mis manos.
 
-El primero concepto que me viene a la cabeza es el de [[Rewilding]] traído por [[Cristian Moyano]] en un [artículo publicado en Climática de La Marea](https://climatica.coop/entrevista-cristian-moyano-filosofo-rewilding/?tztc=1).
+### Un juego de cuerdas con los conceptos
 
-De esta breve nota me interesa cómo este concepto de alguna forma dialoga con la [[Gaia]] de la que nos habla [[Bruno Latour]] a lo largo de la gran parte de textos compartidos.
+Así como Haraway nos invita a jugar a los juegos de cuerdas ([[Bibliografía#Haraway, D. J. (2020). _Seguir con el problema Generar parentesco en el Chthuluceno_. CONSONNI.|Haraway, 2020]]) me gustaría a mí aquí intentar hacer un hilado de posible atadura de los conceptos que a modo de punto de anclaje sobre punto de anclaje creen una narrativa coherente:
+
+El [[Antropoceno]] es hoy uno de los grandes eventos de la Humanidad. Por encima de todo aquel evento geopolítico que puede, indudablemente, afectar a nuestro común devenir físico, la cuestión medioambiental como afectación planetaria no va a entender las vicisitudes de las disputas de los humanos. La Tierra, esa gran desconocida, nos interpela para mirarla tal vez desde el [[Adentro (Inside)]], indagar desde formas y modos que nos conecten más allá de la utilidad o el mecanicismo positivista impuesto y caduco. Tenemos en nuestra mano pensarnos juntos un [[Futuro]] que aparece como concepto de SF, aquí *Science Fiction* que diría Haraway, más que nunca difuso, más que nunca escurridizo. Un hecho: el [[Cambio climático]] y una lista de posibles formas de aproximación a su acometido práctico, vital, y no tanto intelectual: el [[Rewilding]], la generación de [[Parentesco]], un accionar como [[Mutación]],... Todas ellas con la deuda adquirida de *un otro* relacionamiento con [[Gaia]] porque una frase se nos agolpa en nuestro presente catastrófico: así no podemos seguir. Tal vez sea hora de realizar una otra [[Composición]] para aprender a encontrar formas de encajar nuestra [[Naturaleza+Cultura|Cultura]] con la  [[Naturaleza+Cultura|Naturaleza]]. 
+
+
+
 
 
 

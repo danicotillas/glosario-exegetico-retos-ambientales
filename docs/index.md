@@ -1,5 +1,8 @@
 # A propósito de este Glosario
 
+![[genesis-glosario_completo.gif]]
+
+
 !!! info "Información"
 	He creído pertinente dejar esta página como inicio para dar una introducción de *dónde se está*.
 	Si prefieres ir directamente a una página con los conceptos listados ve a **[[Glosario exegético de conceptos]]**
@@ -44,19 +47,9 @@ Este estrato, justamente antes de la corteza, sirve para dejar pistas y enlaces 
 
 ## Corteza
 
-Son los **[[Glosario exegético de conceptos|conceptos, autoras y autores, ideas, reflexiones, palabras clave hechas información]]**. Esta facticidad se representa a modo de nota a la que accedemos por el vínculo. Cada vez que hacemos un clic y navegamos entre notas estamos pasando de la corteza al manto superior atravesando el código de una plataforma digital para investigar qué se encuentra más allá.
+Son los **[[Glosario exegético de conceptos|conceptos, ideas, reflexiones, palabras clave hechas información]]**. Esta facticidad se representa a modo de nota a la que accedemos por el vínculo. Cada vez que hacemos un clic y navegamos entre notas estamos pasando de la corteza al manto superior atravesando el código de una plataforma digital para investigar qué se encuentra más allá.
 
 Se apoya sobre el calor que impregna la capa inmediatamente anterior de manto donde como Jardín digital que es no hay un orden necesariamente establecido. **No hay navegación, no hay orden, sólo crecimiento orgánico**.
 
 
-
-***
-### Proceso de creación del glosario
-
-#### Nacimiento
-
-
-![[genesis-glosario_.gif]]
-
-***
 
