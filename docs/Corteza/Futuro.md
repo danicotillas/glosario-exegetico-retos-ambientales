@@ -2,7 +2,7 @@ Un glosario sobre la crisis de idea moderna de Naturaleza debe en algún momento
 
 La noción de tiempo es fundamental a la hora de pensar nuestra relación con la [[Naturaleza+Cultura|naturaleza]].
 
-En el artículo de Gutiérrez ([[Bibliografía#Gutiérrez, B. (2025, noviembre 2). _Adiós a la sostenibilidad y hola a la alianza multiespecies Nuevos vientos para el pensamiento ecologista_. El País. https //elpais.com/ideas/2025-11-02/adios-a-la-sostenibilidad-y-hola-a-la-alianza-multiespecies-nuevos-vientos-para-el-pensamiento-ecologista.html|2025]]) se citan unas interesantes declaraciones de Ailton Krenak:
+En el artículo de Gutiérrez ([[Bibliografía#Gutiérrez, B. (2025, noviembre 2). _Adiós a la sostenibilidad y hola a la alianza multiespecies Nuevos vientos para el pensamiento ecologista_. El País.|2025]]) se citan unas interesantes declaraciones de Ailton Krenak:
 
 > *“Solo existe el presente. El futuro es un fraude. Si no somos capaces de dar una respuesta al ahora, vamos a recibir después algo a lo que llamaremos futuro con los defectos de lo que no fuimos capaces de arreglar y cuidar”.
 
