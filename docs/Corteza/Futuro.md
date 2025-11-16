@@ -4,7 +4,7 @@ La noción de tiempo es fundamental a la hora de pensar nuestra relación con la
 
 En el artículo de Gutiérrez ([[Bibliografía|2025]]) se citan unas interesantes declaraciones de Ailton Krenak:
 
-> *“Solo existe el presente. El futuro es un fraude. Si no somos capaces de dar una respuesta al ahora, vamos a recibir después algo a lo que llamaremos futuro con los defectos de lo que no fuimos capaces de arreglar y cuidar”.
+> <i>“Solo existe el presente. El futuro es un fraude. Si no somos capaces de dar una respuesta al ahora, vamos a recibir después algo a lo que llamaremos futuro con los defectos de lo que no fuimos capaces de arreglar y cuidar”</i>.
 
 Es interesante la idea de percibir el futuro como legado del presente. Hay una llamado aquí a la íntima responsabilidad de la acción de la Humanidad sobre la naturaleza para con las siguientes generaciones.
 
@@ -16,7 +16,9 @@ Esta idea entronca bastante bien con una visión desde otro lado de la esfera fi
 
 Ireland, como buena integrante y heredera del pensamiento Landiano y del CCRU coloca a la hiperstición en el vortex de la espiral temporal. La **hiperstición** como profecía autocomplida, como "la producción de la causa *a partir* del efecto" ([[Bibliografía#Ireland, A. (2022). _Filosofía- ficción_. Holobionte Ediciones.|Ireland, 2022, p. 144]]). Es decir, podemos producir nuestro presente creando el futuro desde la necesaria ficción colectiva autoreferenciada en nuestro presente.
 
-> **El futuro es, por tanto, una construcción colectiva responsable de los futuros que se nos aglomeran.**
+!!! Quote "Intentando definirlo siguiendo a Ireland"
+	El futuro es, por tanto, una construcción colectiva responsable de los futuros que se nos aglomeran.
+
 
 Esta es otra forma interesante de plantear el concepto de **Futuro** desde una mirada diferente a la Krenak, donde se desliga una cuestión de internacional de clase por una mirada más ontológica.
 
