@@ -1,7 +1,7 @@
 
 Bienvenide al **Glosario exegético de retos ambientales** creado para la materia del mismo nombre del Máster de Filosofía para los Retos Contemporáneos de la UOC.
 
-Puedes ver el resultado de este **<a href="https://jardin.cc/topic/que-son-los-jardines-digitales/" target="_blank"><strong>jardín digital</strong></a> en:
+Puedes ver el resultado de este <a href="https://jardin.cc/topic/que-son-los-jardines-digitales/" target="_blank"><strong>jardín digital</strong></a> en:
 
 <a href="https://danicotillas.github.io/glosario-exegetico-retos-ambientales" target="_blank">https://danicotillas.github.io/glosario-exegetico-retos-ambientales</a>
 
