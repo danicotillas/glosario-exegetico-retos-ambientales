@@ -1,4 +1,4 @@
-!!! Quote
+!!! Quote "Una definición posible"
 	El composicionismo entendido como compromiso, primeramente de los humanos, por crear estructuras colectivas con el resto de seres vivientes y orgánicos por una otra relación con [[Gaia]].
 
 Bruno Latour en [[Bibliografía#Latour, B. (2019). _Cara a cara con el planeta Una nueva mirada sobre el cambio climático alejada de las posiciones apocalípticas_. Siglo XXI Editores.|Cara a cara con el planeta]] (2019, p. 44) cita:
